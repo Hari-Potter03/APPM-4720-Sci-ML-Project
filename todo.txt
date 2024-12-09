@@ -1,0 +1,7 @@
+1. Train our diffusion model for cats
+2. Introduce picture of my cat
+3. Use spsa on noise to try and get model to reproduce my cat 
+4. Create report
+
+tutorial - https://towardsdatascience.com/diffusion-model-from-scratch-in-pytorch-ddpm-9d9760528946
+https://av9.dev/cat-dataset/
